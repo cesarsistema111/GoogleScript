@@ -6,8 +6,9 @@ este es un repositorio para prender google Script , Poder asi automatizar nuestr
 
 primero bamos a crear una hoja de calculo en google.
 
-### imagen
+
 ![image-01](https://drive.google.com/uc?export=view&id=1ZVjTlR8UEIjaBJrTlmoVQ7_meNnSM1aW)
-
+## imagen 01
+la idea es que pase mos informacion de la hoja llamada bd a la llamada destino mediante un googleScript
 ![image-02](https://drive.google.com/uc?export=view&id=1nbKwkARvDCQ7_cOHbDNiy8ZB9Hry2T5b)
-
+## imagen 02
