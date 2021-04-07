@@ -8,4 +8,7 @@ primero bamos a crear una hoja de calculo en google.
 
 ### imagen
 
-![](https://drive.google.com/drive/u/0/folders/1V1u2J3hgCAiGjhJjfBW8j6_szU2GJcrY)
+![](http://drive.google.com/uc?export=view&id=1ZVjTlR8UEIjaBJrTlmoVQ7_meNnSM1aW)
+
+<img src=”http://drive.google.com/uc?export=view&id=1ZVjTlR8UEIjaBJrTlmoVQ7_meNnSM1aW”>
+https://drive.google.com/file/d/1ZVjTlR8UEIjaBJrTlmoVQ7_meNnSM1aW/view?usp=sharing
