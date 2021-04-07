@@ -7,6 +7,5 @@ este es un repositorio para prender google Script , Poder asi automatizar nuestr
 primero bamos a crear una hoja de calculo en google.
 
 ### imagen
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
 
-![](https://doc-0c-bg-docs.googleusercontent.com/docs/securesc/u7vrkaig9flpap60thduesiln1fjsah5/5l6eo4838icplb82b4mb654l9s3a8l5e/1617808725000/18412439784109132900/18412439784109132900/1ZVjTlR8UEIjaBJrTlmoVQ7_meNnSM1aW?authuser=0)
+![](https://drive.google.com/drive/u/0/folders/1V1u2J3hgCAiGjhJjfBW8j6_szU2GJcrY)
