@@ -14,4 +14,7 @@ la idea es que pasemos informacion de la hoja llamada bd a la llamada destino me
 ## imagen 02
 lo siguiente es abrir el editor de codigo de google
 ![image-03](https://drive.google.com/uc?export=view&id=1WmmKrhUX91wDdzAg0tctXpgFjNuGQn0y)
+
+https://drive.google.com/file/d/1WmmKrhUX91wDdzAg0tctXpgFjNuGQn0y/view?usp=sharing
 ## imagen 03
+1WmmKrhUX91wDdzAg0tctXpgFjNuGQn0y
