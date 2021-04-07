@@ -9,7 +9,7 @@ este es un repositorio para prender google Script , Poder asi automatizar nuestr
 primero bamos a crear una hoja de calculo en google.
 
 ### imagen
-![image](https://drive.google.com/uc?export=view&id=1ZVjTlR8UEIjaBJrTlmoVQ7_meNnSM1aW)
+![image](https://drive.google.com/uc?export=view&id=1ZVjTlR8UEIjaBJrTlmoVQ7_meNnSM1aW.png)
 
 ![](http://drive.google.com/uc?export=view&id=1ZVjTlR8UEIjaBJrTlmoVQ7_meNnSM1aW)
 
