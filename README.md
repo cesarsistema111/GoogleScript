@@ -23,4 +23,4 @@ lo siguiente es abrir el editor de codigo de google
 
 ## imagen 03
 
-
+[========]
