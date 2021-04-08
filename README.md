@@ -28,3 +28,8 @@ el codigo lo estare dejando en las funtes de este repositorio.
 con el nomgre de ASCopiar_Filas_02.gs
 
 ![image-04](https://drive.google.com/uc?export=view&id=1baSN_KBVwGsI1oJPJc86JF0044umkX8I)
+importante :
+para probar este ejemplo tienes que cambiar el id del archivo
+te dejo la imagen siguiente 
+![image-04](https://drive.google.com/uc?export=view&id=1oTXZ3TgVrc533apVnMHm-oLjJmV60JrP)
+
