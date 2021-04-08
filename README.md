@@ -31,7 +31,8 @@ con el nomgre de ASCopiar_Filas_02.gs
 ## imagen 04
 importante :
 para probar este ejemplo tienes que cambiar el id del archivo
-te dejo la imagen siguiente 
+te dejo la imagen siguiente donde puedes hayar el id del archivo
+este codigo lo cambiaras dentro del ASCopiar_Filas_02.gs en donde dice : id de hoja
 
 ![image-05](https://drive.google.com/uc?export=view&id=1oTXZ3TgVrc533apVnMHm-oLjJmV60JrP)
 ## imagen 05
