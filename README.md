@@ -23,3 +23,8 @@ lo siguiente es abrir el editor de codigo de google
 
 ## imagen 03
 [========]
+abrimos un archivo de codigo tal como figura el la siguiente figura.
+el codigo lo estare dejando en las funtes de este repositorio.
+con el nomgre de ASCopiar_Filas_02.gs
+
+![image-04](https://drive.google.com/uc?export=view&id=1baSN_KBVwGsI1oJPJc86JF0044umkX8I)
