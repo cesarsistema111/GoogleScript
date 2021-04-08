@@ -1,7 +1,7 @@
 # GoogleScript
 este es un repositorio para prender google Script , Poder asi automatizar nuestro trabajo diario de oficina
 
-01 primer ejemplo.
+### 01 primer ejemplo.
 ### Copiar filas de una hoja google en otra hoja y  pegarlas en la ultima fila
 
 primero bamos a crear una hoja de calculo en google.
@@ -22,8 +22,7 @@ lo siguiente es abrir el editor de codigo de google
 ![image-03](https://drive.google.com/uc?export=view&id=1WmmKrhUX91wDdzAg0tctXpgFjNuGQn0y)
 
 ## imagen 03
-[========]
-[========]
+
 abrimos un archivo de codigo tal como figura el la siguiente figura.
 el codigo lo estare dejando en las funtes de este repositorio.
 con el nomgre de ASCopiar_Filas_02.gs
