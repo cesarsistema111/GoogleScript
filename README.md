@@ -22,5 +22,4 @@ lo siguiente es abrir el editor de codigo de google
 ![image-03](https://drive.google.com/uc?export=view&id=1WmmKrhUX91wDdzAg0tctXpgFjNuGQn0y)
 
 ## imagen 03
-
 [========]
